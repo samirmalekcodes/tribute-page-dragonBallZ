@@ -173,11 +173,25 @@ a:hover {
   }
 }
 
-.footer {
+footer {
   background-color: rgb(53, 56, 204);
-
 }
 
-footer p {
+footer.footer-tags{
+  padding: 10px;
+  font-size: 15px;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+}
+
+.footer-tags a {
+  padding: 5px;
+  margin: 5px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+a.ontop {
   
 }
