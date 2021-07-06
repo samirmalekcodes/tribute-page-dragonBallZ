@@ -202,6 +202,10 @@ html {
     height: 100%;
     object-fit: cover;
   }
+
+  h1.page-header {
+    font-size: 30px;
+  }
 }
 
 /* for bigger screens; larger than 768px */
